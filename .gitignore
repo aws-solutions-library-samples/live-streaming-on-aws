@@ -19,3 +19,6 @@ yarn-error.log*
 yarm-lock.json
 deployment/staging
 source/test/*
+
+# Kiro IDE
+.kiro/
